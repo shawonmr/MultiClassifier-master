@@ -1,0 +1,785 @@
+_Id,_PostTypeId,_CreationDate,_Score,_ViewCount,_Body,_OwnerUserId,_LastActivityDate,_Title,_Tags,_AnswerCount,_CommentCount,_FavoriteCount,_LastEditorUserId,_AcceptedAnswerId,_LastEditDate,_ParentId,_Category
+1,1,2011-10-25T19:48:36.693,6,157,"<p>Are questions related to <a href=""http://www.megabloks.com/"" rel=""nofollow"">megabloks</a> and similar products on-topic?</p>
+
+<p>I ask because the site is <code>bricks.stackexchange.com</code>, but the logo is <code>LEGO ®</code></p>
+",6,2011-10-26T05:35:32.733,Are questions about non-LEGO brick toys on-topic?,<discussion><on-topic>,3,0,,8,,2011-10-26T05:35:32.733,,bricks
+2,1,2011-10-25T19:55:17.860,3,53,"<p>What is a good tag for purchasing/acquiring/procuring pieces? I have thrown out procurement since it is not likely to be the most intuitive, but none of the other two above seem to be as accurate or intuitive.</p>
+
+<p>What should we use, as least to begin with?</p>
+",13,2011-10-26T05:32:58.667,Nomenclature of [Purchasing] tag,<discussion><tagging>,1,1,,8,16,2011-10-26T05:32:58.667,,bricks
+3,2,2011-10-25T20:05:30.043,9,,"<p>I've asked one, so <a href=""https://bricks.stackexchange.com/questions/26/are-nanoblocks-compatible-with-other-building-bricks"">let's find out!</a> I've got another one coming up too.</p>
+
+<p>(I think yes, any brick-building toys should be allowed, regardless of compatibility with a LEGO product line.)</p>
+",,2011-10-25T20:05:30.043,,,,3,,-1,,2017-04-13T12:47:56.147,1,bricks
+4,1,2011-10-25T20:08:47.770,10,131,"<p>Lego Mindstorms allows one to write embedded-programing to design robots using Legos. How much of this technology is on-topic?</p>
+",,2011-10-26T05:35:43.360,Is Lego Mindstorms on-topic?,<discussion><on-topic>,2,0,2,8,18,2011-10-26T05:35:43.360,,bricks
+5,2,2011-10-25T20:15:01.507,4,,"<p>I suspect that Mindstorms by itself is not large enough a community, and Lego itself might not be large enough.</p>
+
+<p>I would vote for allowing it.</p>
+",45,2011-10-25T20:15:01.507,,,,1,,,,,4,bricks
+6,1,2011-10-25T20:20:55.057,16,421,"<p>How should I represent:</p>
+
+<ul>
+<li>2D plan view of bricks</li>
+<li>Diagrams of brick interaction</li>
+<li>3D views of models</li>
+</ul>
+
+<p>Using markdown?</p>
+",47,2012-03-08T23:50:20.920,How should I diagrammatically represent lego bricks in questions?,<markdown><discussion>,1,4,1,,,,,bricks
+7,1,2011-10-25T20:26:13.177,14,83,"<p>I'm already seeing a flood of low-quality and outright <em>wrong</em> answers to my questions get posted within seconds, and worse they are getting voted up. It's worse than the rep rush I'm used to from StackOverflow!</p>
+
+<p>At this point, we should be focused on good questions and <em>the best</em> answers. These are the answers that are going to serve as the standard for the public beta questions. Don't just throw out one line and a Google link or ""well, I think X""! You're LEGO experts; give expert-quality answers.</p>
+
+<p>Please do not be afraid to downvote; wrong answers and bad policies now will plague the site forever.</p>
+",,2011-10-26T05:40:56.097,"Please, answer like an expert! Upvotes *and* downvotes are critical during this time",<discussion><answers><voting>,0,5,,8,,2011-10-26T05:40:56.097,,bricks
+8,1,2011-10-25T20:28:11.410,4,73,"<p>We already have one of the <a href=""https://bricks.stackexchange.com/questions/2/what-brick-is-this"">what-brick-is-it kind of question</a> and I suspect, from other LEGO communities, that we are going to get many, many more. The problem I see is that the title is useless. What do you think if we establish that the brick should be described in the question? Would that help? would that be useless?</p>
+",53,2011-10-26T11:58:58.087,What-brick-is-this type of question,<discussion>,2,2,,-1,,2017-04-13T12:47:56.147,,bricks
+9,1,2011-10-25T20:28:32.797,10,360,"<p>On this site, which term do we use (or prefer to use) in questions and in tags? I'm inclined to the former, but then I'm British so that's the <em>only</em> way it could possibly be said.</p>
+",47,2015-10-30T13:53:13.227,"Do we use Lego, or Legos?",<discussion><trademark>,5,5,2,132,29,2012-01-18T15:54:14.877,,bricks
+10,1,2011-10-25T20:28:37.790,13,141,"<p>There's a handful of <a href=""https://gaming.stackexchange.com/search?q=lego"">questions about LEGO video games on Gaming SE</a> right now. If I have a question about a video game, do I continue asking there since video games are quite different from the physical building sets themselves, or will they be on topic here as well?</p>
+",11,2011-10-26T05:35:15.777,Do LEGO video game questions belong here or on Gaming?,<discussion><on-topic>,2,0,,-1,20,2017-04-13T12:09:36.733,,bricks
+1,1,2017-05-16T19:29:39.513,20,203,"<p>I have spent a lot of time on StackOverflow and am pretty familiar with the types of questions that are and are not allowed on the site.  I am a little unsure as to how well the strict question rules transfer over to this site, however.  Typically, questions that do not have concrete answers or are opinion-based are discouraged, as are requests for listing of resources.  I don't think that this level of stringency is appropriate for this site.  An example:</p>
+
+<blockquote>
+  <p>What is the best tool for computing gene-level expression?</p>
+</blockquote>
+
+<p>This might immediately be flagged for deletion because it is both a resource request and opinion based, but keep in mind:</p>
+
+<ul>
+<li>It can be difficult to find scientific tools, especially if the analysis or function they perform is not very common or new.</li>
+<li>While people might have opinions on what tool is the best, there are quantifiable ways of demonstrating that some scientific tools are better or worse, which can be important to capture an upvote for future reference.</li>
+<li>There are a lot of unknowns in science, and therefore a lot of opinions, so one could argue a lot of things as opinion-based.  Therefore, some leniency should be expected in question asking.</li>
+</ul>
+
+<p>Thoughts?</p>
+",47,2017-05-19T18:16:59.470,What sort of questions are appropriate for Bioinformatics SE?,<discussion>,3,7,2,,,,,bioinformatics
+2,1,2017-05-17T00:08:15.570,6,101,"<p>When I signed up for the site and look up in the part were the review button was suppose to be it wasn't there as indicated by this screen shot here.</p>
+
+<p><a href=""https://i.stack.imgur.com/j6HxT.png"" rel=""nofollow noreferrer""><img src=""https://i.stack.imgur.com/j6HxT.png"" alt=""enter image description here""></a></p>
+
+<p>This seems kind of weird considering the fact that I signed up for a few private beta site before and there is all ways a review button as soon as I sign in. (because of automatically getting the close privilege.)</p>
+
+<p>Please note the reviews are still accessible via the link: <a href=""https://bioinformatics.stackexchange.com/review"">https://bioinformatics.stackexchange.com/review</a> </p>
+
+<p><sub>If this is just a status by design feature and not a bug sorry for the misunderstanding.</sub></p>
+",2,2017-05-17T11:37:42.993,Where is the review button?,<bug><review>,1,0,1,2,,2017-05-17T00:13:36.200,,bioinformatics
+3,2,2017-05-17T07:15:05.587,7,,"<p>Such open-ended question should be closed in my opinion. A better question for the site would be </p>
+
+<blockquote>
+  <p>What is better tool for computing gene-level expression A or B?</p>
+</blockquote>
+
+<p>This question is still open to opinionated personal experience using the tools but can be answered with articles comparing both tools. </p>
+
+<p>This way we can have a tag for <a href=""https://bioinformatics.stackexchange.com/questions/tagged/gene-level-expression"" class=""post-tag"" title=""show questions tagged &#39;gene-level-expression&#39;"" rel=""tag"">gene-level-expression</a> and group there questions comparing <a href=""https://bioinformatics.stackexchange.com/questions/tagged/tool"" class=""post-tag"" title=""show questions tagged &#39;tool&#39;"" rel=""tag"">tool</a>. The reader after reading the questions and articles might end up with a good knowledge of the tools available and used by the community. </p>
+
+<p>As suggested in the comments:</p>
+
+<blockquote>
+  <p>What are the pros/cons of computing gene level expression with A or B? </p>
+</blockquote>
+
+<p>This might be a better alternative</p>
+",48,2017-05-17T14:00:00.717,,,,4,,48,,2017-05-17T14:00:00.717,1,bioinformatics
+4,1,2017-05-17T07:30:04.937,7,131,"<p>When the proposal of Bioinformatics started there was a <a href=""https://www.biostars.org/p/248254/"" rel=""nofollow noreferrer"">discussion in Biostars</a> about the this site (and SE in general compared to Biostars). Some of the points raised are:</p>
+
+<ul>
+<li>Unfriendly community, questions are received with down-votes</li>
+<li>Toxic environment</li>
+<li>Lack of support from moderators</li>
+<li>Lack of discussion about questions</li>
+<li>Adding more sites is diluting the user base</li>
+<li>Cross-post with other communities </li>
+<li>License of the code provided in Stack Exchange</li>
+</ul>
+
+<p>How do we want the community to handle this issues?</p>
+
+<p>Additionally there are also <a href=""http://seqanswers.org"" rel=""nofollow noreferrer"">seqanswers</a>, <a href=""https://support.bioconductor.org"" rel=""nofollow noreferrer"">Bioconductor</a>, Galaxy community and other communities (and mailing groups) around different tools and projects.</p>
+",48,2017-05-20T16:44:09.050,Interacting with other Q&A communities,<discussion>,3,7,,,29,,,bioinformatics
+5,1,2017-05-17T09:56:06.017,18,103,"<p>Let’s standardise some tags.</p>
+
+<p>For instance, there are already two competing conventions at work:</p>
+
+<ul>
+<li><a href=""https://bioinformatics.stackexchange.com/questions/tagged/rna-seq"" class=""post-tag"" title=""show questions tagged &#39;rna-seq&#39;"" rel=""tag"">rna-seq</a></li>
+<li><a href=""https://bioinformatics.stackexchange.com/questions/tagged/scrnaseq"" class=""post-tag"" title=""show questions tagged &#39;scrnaseq&#39;"" rel=""tag"">scrnaseq</a></li>
+</ul>
+
+<p>Either both should use a dash, or none should.</p>
+
+<p>I propose the slightly more readable variant: using dashes to separate <em>‹tech›</em> from “seq”. That is:</p>
+
+<ul>
+<li><a href=""https://bioinformatics.stackexchange.com/questions/tagged/rna-seq"" class=""post-tag"" title=""show questions tagged &#39;rna-seq&#39;"" rel=""tag"">rna-seq</a></li>
+<li><a href=""https://bioinformatics.stackexchange.com/questions/tagged/chip-seq"" class=""post-tag"" title=""show questions tagged &#39;chip-seq&#39;"" rel=""tag"">chip-seq</a></li>
+<li><a href=""https://bioinformatics.stackexchange.com/questions/tagged/scrna-seq"" class=""post-tag"" title=""show questions tagged &#39;scrna-seq&#39;"" rel=""tag"">scrna-seq</a>
+etc.</li>
+</ul>
+",29,2017-05-17T09:56:06.017,Let’s standardise some tags,<discussion><tags><tag-synonyms>,0,10,1,,,,,bioinformatics
+6,1,2017-05-17T11:00:23.463,20,127,"<p>Several other communities (in particular <a href=""https://stats.meta.stackexchange.com/q/5/3512"">Stats</a> and <a href=""https://biology.meta.stackexchange.com/q/7/166"">Biology</a>, which are closely related to Biofx.SE) have MathJax support.</p>
+
+<p>This would be highly desirable here as well, since pseudocode and equations abound in bioinformatics.</p>
+
+<p>Case in point, my <a href=""https://bioinformatics.stackexchange.com/a/65/29"">first</a> <a href=""https://bioinformatics.stackexchange.com/a/69/29"">two</a> answers would <em>both</em> benefit from it.</p>
+",29,2017-07-26T16:02:29.310,Can we have math layouting?,<feature-request><status-completed><mathjax>,2,5,1,49,,2017-07-26T16:02:11.550,,bioinformatics
+7,2,2017-05-17T11:37:42.993,8,,"<p>Apparently you need <a href=""https://bioinformatics.stackexchange.com/help/privileges/access-review-queues"">350 reputation</a> to access the review queue.</p>
+",29,2017-05-17T11:37:42.993,,,,0,,,,,2,bioinformatics
+8,1,2017-05-17T14:09:15.090,8,101,"<p>In general, if you are unsure whether a question is the sort of thing we are going to want to see here, is it better to ask it on the main site and see if it gets closed, or enquire on meta first if it is in-scope?</p>
+
+<p>For example:</p>
+
+<blockquote>
+  <p><strong>How to correlate of two zero inflated bedgraph-like signals?</strong></p>
+  
+  <p>I have iCLIP read counts accross the transcriptome and I wish to know
+  if the signals are correlated - that is, where one of them is high, is
+  the other likely to be high. </p>
+  
+  <p>Often when dealing with such data (e.g. iCLIP data) we know that the
+  data is generally sparse - that is at most positions both signals are
+  zero and this is correct, and also zero-inflated - that is many bases
+  that ""should"" have a signal are missing that data. So just calucalting the spearmans correlation is likely to give an artifically low value.</p>
+  
+  <p>These problems are also present if you want to correlate ChIP-seq
+  signals or Mutation frequencies.</p>
+  
+  <p>What might be a way to address this?</p>
+</blockquote>
+
+<p><a href=""https://stats.stackexchange.com/questions/181241/relationship-between-two-zero-inflated-counts-varying-in-space"">I asked a question similar to this on Cross-validated</a>, but didn't get any response. I feel it might be of more interest to a bioinformatics crowd as it is a problem that seems to come up frequently in bioinformatics. But I wonder if it is too ""stats-y"" for here.</p>
+
+<p>Anyway, my question is: <em>Should I just post questions like this, where I am unsure, and see if people think it is good. Or should I ask for everyone on Meta to see if people think its good?</em></p>
+
+<p>Pro's for asking first:</p>
+
+<ul>
+<li>We don't pollute the site with low-quality, closed questions</li>
+<li>We build a bank of reasoning why a question would be allowed or not allowed that can be reffered to in the future.</li>
+</ul>
+
+<p>Pro's for just posting:</p>
+
+<ul>
+<li>Might lead to a lot of boring repetative questions on meta all basically asking ""Is this allowed? How about this? Not sure about this one?""</li>
+<li>Will slow down the accumulation of questions on the site as it will take people time to answer the pre-enquiries before the question is actaully asked.</li>
+</ul>
+",235,2017-05-20T20:13:57.383,Testing the boundaries of good questions?,<discussion>,1,4,,,34,,,bioinformatics
+9,2,2017-05-17T14:34:31.530,3,,"<p>I have a proposal - tool questions/answers should be limited to discussions of pros/cons for a particular tool or tools. In other words, the question you posed (and bouncing off of <a href=""https://bioinformatics.meta.stackexchange.com/a/3/8"">Llopis' answer</a>):</p>
+
+<blockquote>
+  <p>What are the pros/cons of computing gene level expression with A vs B?</p>
+</blockquote>
+
+<p>This approach has a number of benefits:</p>
+
+<ol>
+<li>Answers to this question can be more objective. People may still quibble about whether a particular approach is better or worse, but the upsides/downsides of any approach shouldn't generate as much disagreement</li>
+<li>This is probably a better way to think about such questions anyway, and answers to such questions are more generalizable to different experiments/approaches. In other words, even if a questioner asks about a particular experimental setup, good answers about the pros/cons of a particular tool will likely apply to other experimental setups.</li>
+<li>These answers are less likely to go out of date, since new software will not change the pros/cons of particular approaches, but might change what the best approach is. And even old questions about out of date software will retain value for learners (since they will contain expert thought about how to assess the value of an approach).</li>
+</ol>
+
+<p>I'm not sure if this approach is applicable to all questions of this type, but it could certainly be applied to most. It will take more effort from questioners, since they will have to do some research to actually bring up a tool or tools, but this will probably make for better questions anyway, and there's no reason an answer couldn't bring up some new tool that wasn't asked.</p>
+",8,2017-05-17T14:34:31.530,,,,0,,,,,1,bioinformatics
+10,2,2017-05-17T16:10:20.203,4,,"<p>I understand the feelings of Biostar people, at the same time competition is almost always good.</p>
+
+<p>In order to address those issues I think we should do the following:</p>
+
+<ul>
+<li>Try to be friendly to newcomers once the site is open.</li>
+<li>Keep our answers and questions high-quality. This is really an issue for some of other websites you mentioned.</li>
+<li>Allow some discussion.</li>
+</ul>
+
+<p>I do not think dilution is a problem. Academia is very decentralized anyway, there are thousands of journals, a lot of software which is very similar, etc. Competition is usually good. All of the communities will have a stimulus to function better.</p>
+
+<p>Also, I don't think licensing is a practical problem. This is not a software development SE.</p>
+",191,2017-05-17T16:10:20.203,,,,1,,,,,4,bioinformatics
+1,1,2014-01-21T20:58:43.500,12,145,"<p>I've already seen a question or two that seem to at least tangentially reference Homebrewing. </p>
+
+<p>Keeping in mind that there is already a beta site on Homebrewing, how much of the topic should we allow and how much should we be prepared to migrate their direction?</p>
+",39,2014-01-23T08:44:14.440,Is Homebrewing on topic?,<discussion><scope><homebrew>,3,3,,,,,,beer
+2,2,2014-01-21T21:05:11.577,21,,"<p>I would say that if there is a site for Homebrewing then technical questions about brewing beer at home are off topic.  But questions about ""homebrewed"" beer would not be off topic. </p>
+",32,2014-01-21T21:05:11.577,,,,0,,,,,1,beer
+3,1,2014-01-21T21:06:16.967,7,127,"<p>I've seen several questions so far that deal with human biology as it relates directly to alcohol. </p>
+
+<p>It seems like these questions are off topic and generally outside of the expertise of this site.</p>
+
+<p>Examples:</p>
+
+<ul>
+<li><p><a href=""https://alcohol.stackexchange.com/questions/7/will-certain-types-of-beer-get-me-more-drunk-more-quickly"">Will certain types of beer get me more drunk more quickly?</a></p></li>
+<li><p><a href=""https://alcohol.stackexchange.com/questions/16/why-do-i-seem-to-pee-out-more-beer-than-i-drink"">Why do I seem to pee out more beer than I drink?</a></p></li>
+</ul>
+
+<p>How much of this topic can we feasibly cover, and how much of it <em>should</em> we cover?</p>
+",39,2014-01-22T23:43:21.513,How much do we want to get into biology?,<discussion><scope>,2,0,,-1,,2017-04-12T07:33:59.157,,beer
+4,1,2014-01-21T21:15:42.460,4,82,"<p>For example, <a href=""https://alcohol.stackexchange.com/questions/25/what-specific-characteristics-distinguish-an-imperial-stout-from-other-kinds-of"">this question</a> is one that I would consider on topic for this site. However, it's already been <a href=""https://homebrew.stackexchange.com/questions/949/what-does-imperial-mean-with-regards-to-beer-style"">answered on the homebrewing site</a>.</p>
+
+<p>Normally I would say let the both questions exist and have them get answers from the perspective of the site they're on, meaning that on here the answer would be only about the specifics of the beer(s) themselves and on the Homebrewing site it'd be from the perspective of making the beer. In this specific case, it's a little bit weirder since the accepted homebrewing answer isn't even relevant to homebrewing (but I may be wrong about that).</p>
+
+<p>What should we do in these situations?</p>
+",2,2014-04-23T08:52:00.357,What should we do when a question already has an answer on the Homebrewing site?,<discussion>,2,0,,-1,7,2017-04-13T12:46:00.997,,beer
+5,1,2014-01-21T21:20:16.943,0,50,"<p>Since there's so many varieties of beer, there's already a lot of questions on our site about the difference between them. What tag should we use? I considered creation a tag called <a href=""https://alcohol.stackexchange.com/questions/tagged/characteristics"" class=""post-tag"" title=""show questions tagged &#39;characteristics&#39;"" rel=""tag"">characteristics</a> on <a href=""https://alcohol.stackexchange.com/questions/28/whats-are-the-differences-between-an-ipa-and-its-variants"">my question related to this</a> but it seemed odd.</p>
+
+<p>What tag should we use? <em>Should</em> we use a tag at all or will tagging them by the variants names be fine?</p>
+",2,2014-01-21T22:04:07.027,"What tag should we use for ""what's the difference between X and Y"" questions?",<discussion>,2,0,,-1,12,2017-04-12T07:33:59.157,,beer
+6,2,2014-01-21T21:30:24.297,2,,"<p>Nothing. </p>
+
+<p>While it's unfortunate to have duplicated information across sites, sites that have overlap in topic should not be afraid to have some overlap in questions. If it's clearly on topic in both places it's not an issue.</p>
+
+<p>My guess is that homebrew has been housing <em>a lot</em> of questions that would be borderline off topic if they had a site to ship them to, if this site does well that will give them a good opportunity to focus on the brewing side rather than the tasting/history side.</p>
+",39,2014-01-21T21:30:24.297,,,,0,,,,,4,beer
+7,2,2014-01-21T21:33:55.180,8,,"<blockquote>
+  <p>What should we do in these situations?</p>
+</blockquote>
+
+<p>Nothing. They're two different sites <a href=""https://homebrew.meta.stackexchange.com/questions/344/what-do-you-think-about-launching-a-separate-site-for-beer-appreciation"">with different (but overlapping) audiences</a>. In this specific situation, the exact same question (and its answers!) would be appropriate on <em>both</em> sites, but there'll be plenty of cases where that won't be true, where the needs of a brewer and an enthusiast overlap but don't align perfectly. </p>
+
+<p>Generally-speaking, Stack Exchange sites are expected to stand on their own, catering to their own communities and <a href=""http://blog.stackoverflow.com/2012/03/respect-the-community-your-own-and-others/"">being a bit jealous of their questions</a> - there's no such thing as a cross-site duplicate. </p>
+
+<p>That said, there are two things worth keeping in mind, particularly early on:</p>
+
+<ol>
+<li><p>If you're pulling relevant information from a different site, <a href=""http://blog.stackoverflow.com/2009/06/attribution-required/"">don't forget to attribute it properly</a>. Ideally, there'll be cross-links between sites with related topics, with overlapping expertise aiding readers on both.</p></li>
+<li><p><a href=""https://meta.stackexchange.com/questions/64068/is-cross-posting-a-question-on-multiple-stack-exchange-sites-permitted-if-the-qu?lq=1"">Don't post identical questions on <em>both</em> sites</a>, and be very careful about re-posting questions that've already been asked elsewhere. It's important that we establish a clear role for this site during the private and early public betas; if the questions here are too close to what's available elsewhere, it'll make it harder for future members to recognize what is and isn't on-topic. Focus on identifying areas where the good folks here <em>weren't</em> being served, and make sure the answers they're receiving are fresh draughts. </p></li>
+</ol>
+",13,2014-01-21T21:33:55.180,,,,0,,-1,,2017-03-20T10:31:58.693,4,beer
+8,1,2014-01-21T21:40:22.023,8,119,"<p>It seems to me that if this site is going to succeed that we're going to have to get down to the nitty gritty. </p>
+
+<p>Most of the questions I've seen so far are asking about the general case of ""beer."" It seems to me that this is a very poor way of attracting experts to this topic.</p>
+",39,2014-01-23T11:52:01.650,"Should general questions about ""beer"" be made more specific?",<discussion>,4,1,,,,,,beer
+9,2,2014-01-21T21:40:42.237,2,,"<p><a href=""https://alcohol.stackexchange.com/questions/tagged/beer-styles"" class=""post-tag"" title=""show questions tagged &#39;beer-styles&#39;"" rel=""tag"">beer-styles</a> might be a helpful tag to have. Or just <a href=""https://alcohol.stackexchange.com/questions/tagged/style"" class=""post-tag"" title=""show questions tagged &#39;style&#39;"" rel=""tag"">style</a>/s, along with the appropriate tags for any styles mentioned in the question. (i.e. <a href=""https://alcohol.stackexchange.com/questions/tagged/stout"" class=""post-tag"" title=""show questions tagged &#39;stout&#39;"" rel=""tag"">stout</a>)</p>
+",8,2014-01-21T21:40:42.237,,,,0,,,,,5,beer
+1,1,2010-12-07T20:19:22.790,2,67,"<p>I've been waiting for this forum to open for too long! Congratulations!</p>
+",6,2010-12-14T02:05:35.787,Welcome aboard!,<discussion>,1,0,,24,,2010-12-12T18:38:03.597,,avp
+2,1,2010-12-07T20:30:05.953,4,68,"<p>I was about to ask a beginner question on getting started with home recording. Can someone suggest a set of tags that may be useful to me and others? If this should have been asked on meta site, please feel free to move it over :-)</p>
+",23,2013-04-30T15:47:43.233,What Tags to Choose,<discussion><tags>,2,0,,24,3,2010-12-12T18:37:09.807,,avp
+3,2,2010-12-07T21:17:26.370,4,,"<p>According to <a href=""http://audio.stackexchange.com/tags"">http://audio.stackexchange.com/tags</a><br>
+I'd say ""home-studio"" would be enough.<br>
+The meta-tag ""beginner"" is deemed <a href=""http://blog.stackoverflow.com/2010/08/the-death-of-meta-tags/"">inappropriate</a> :)</p>
+",12,2013-04-30T15:47:43.233,,,,1,,126,,2013-04-30T15:47:43.233,2,avp
+4,1,2010-12-07T21:32:47.627,6,64,"<p>I'm curious what people think of having tags for every instrument vs a generic <code>instrumental</code> tag.  </p>
+",64,2010-12-12T18:40:43.873,Instrument-specific tags?,<discussion><tags>,8,3,,24,9,2010-12-12T18:40:43.873,,avp
+5,2,2010-12-07T21:32:49.563,4,,"<p>My advise would be that if you're in doubt  ask it anyway and add whichever tags you feel are appropriate. Other users can always retag your questions.</p>
+",9,2010-12-07T21:32:49.563,,,,0,,,,,2,avp
+6,2,2010-12-07T21:38:16.407,3,,"<p>I'd go for that. Each instrument is unique when it comes to reproducing its sound faithfully.</p>
+",23,2010-12-07T21:38:16.407,,,,0,,,,,4,avp
+7,2,2010-12-07T21:39:03.347,2,,"<p>The more I think about it the more I like the idea of instrument-specific tags.  I can see myself searching for mic questions within a guitar tag for example.</p>
+",64,2010-12-07T21:39:03.347,,,,0,,,,,4,avp
+8,2,2010-12-07T21:41:54.203,3,,"<p>For sure. There ought to be a ""vocals"" tag, and vocals is ""just"" another instrument after all. ;-)</p>
+",27,2010-12-07T21:41:54.203,,,,0,,,,,4,avp
+9,2,2010-12-07T21:44:58.793,5,,"<p>I think this is a good idea. I would also extend this to include all major types of audio equipment as well.</p>
+",10,2010-12-07T21:44:58.793,,,,0,,,,,4,avp
+10,2,2010-12-07T23:45:01.207,2,,"<p>+1, it's a good idea</p>
+",65,2010-12-07T23:45:01.207,,,,0,,,,,4,avp
+1,1,2015-07-14T18:27:47.793,1,59,"<p>I find it hard to use the specific gender form of words and verbs when talking in Arabic.</p>
+
+<p>Am I going to insult anyone if I get mixed up when talking and using the wrong form?</p>
+",9,2015-07-16T19:06:36.627,Is a must to use the gender specific words when talking in Arabic as a new learner?,<gender>,3,1,,,,,,arabic
+2,1,2015-07-14T18:31:45.717,11,89,"<p>The Arabic alphabet lacks the letter P and V. What is the most common way of writing this letters shall the need arise? for example when you need to write some English word in the Arabic script.</p>
+",9,2015-07-14T19:10:56.170,What is the common way to represent the letters V and P when writing in Arabic?,<alphabet><dictation>,3,1,,9,,2015-07-14T18:37:43.503,,arabic
+3,1,2015-07-14T18:32:16.977,6,70,"<p>I asked for reoccurring rules when building the plural of substantives in class, but my teacher dodged the question, since that was to complicated for the class by then.</p>
+
+<p>For example:</p>
+
+<ul>
+<li>walad / ولد (""boy"") - plural: awlād / أولاد</li>
+<li>yawm / يوم (""day"") - plural ayyām / أيّام</li>
+</ul>
+
+<p>What are those rules? And is every plural built by applying one of those rules?</p>
+",7,2015-07-15T11:20:36.100,Are there reoccurring patterns in building the plural?,<plural><grammar><declination><substantive>,2,4,,28,,2015-07-14T19:34:01.123,,arabic
+4,1,2015-07-14T18:33:37.280,6,142,"<p>I know that at the beginning of a noun, when the <em>hamzat al-waṣl</em> in the definite article الْ is pronounced, it is always pronounced as ""al-"" (i.e. with a <em>fatḥa</em>).  However, I have encountered other words (verbs or indefinite nouns) where the <em>hamzat al-waṣl</em> is sometimes pronounced with a <em>kasra</em> (e.g. ""ihdinā"" in the Qurʾānic āya <a href=""http://quran.com/1/6"" rel=""nofollow"">al-Fātiḥa:6</a>), or even a <em>ḍamma</em>, instead of a <em>fatḥa</em>.</p>
+
+<p>Visually, there is nothing to distinguish the <em>hamzat al-waṣl</em> in any of these cases; they are written exactly the same. Is there some general rule which would let me know how I should be pronouncing <em>hamzat al-waṣl</em> in cases where it <em>is</em> pronounced (rather than absorbed by the preceding vowel as would normally be the case)? Or is this simply a matter where I would need to learn and memorize the exceptions as they come up?</p>
+
+<p>My primary concern for this is reciting the Qurʾān, so I am particularly interested in the rules as per classical Arabic.</p>
+",10,2015-07-25T23:52:55.813,How is hamzat al-waṣl pronounced at the beginning of speech?,<quran><pronunciation><classical-arabic><hamza>,3,5,1,28,,2015-07-17T06:05:26.777,,arabic
+5,1,2015-07-14T18:36:12.377,13,152,"<p>I have heard that Arabs didn't have dots on top/bottom of letters such as <code>ب</code> and <code>ن</code> all the time and they were added at some point. </p>
+
+<p>How did they manage to read and know the exact letter without the presence of the dots for words such as <code>نبات</code> and <code>بنات</code>? </p>
+",9,2015-07-17T16:27:06.050,How did ancient Arabs manage to read without the dots?,<alphabet><dictation><orthography>,2,0,,28,,2015-07-17T16:27:06.050,,arabic
+6,2,2015-07-14T18:39:43.373,11,,"<p>With foreign words, it seems to be common to use ب for ""P"" (as in باكستان, Pakistan) and ف for ""V"" (as in فيتنام, Vietnam).</p>
+",5,2015-07-14T18:39:43.373,,,,1,,,,,2,arabic
+7,2,2015-07-14T18:42:58.997,7,,"<p>In other languages which use the Arabic alphabet but have the sounds P and V,</p>
+
+<p><code>P</code> would be <code>پ</code></p>
+
+<p>while</p>
+
+<p><code>V</code> would be <code>ڨ</code></p>
+",25,2015-07-14T18:49:30.570,,,,5,,5,,2015-07-14T18:49:30.570,2,arabic
+8,2,2015-07-14T18:52:47.967,-1,,"<p>If you are a foreigner then it is going to be very very very detectable by your accent and no one will get offended, in fact most people find it amusing. </p>
+",25,2015-07-14T18:52:47.967,,,,0,,,,,1,arabic
+9,1,2015-07-14T19:00:41.050,3,106,"<p>ما الفرق بين <code>ال</code> القمرية و <code>ال</code> الشمسية ؟</p>
+
+<p>What is the difference between <code>Al</code> <code>Shamseya</code> and <code>Al</code> <code>Qamareya</code> ?</p>
+",25,2015-07-28T05:15:38.993,ما الفرق بين `ال` القمرية و `ال` الشمسية ؟ What is the difference between sun letters and moon letters?,<al><arabic-the>,4,5,0,170,11,2015-07-17T16:26:57.643,,arabic
+10,1,2015-07-14T19:01:22.993,9,82,"<p>There are many verses in the Qur'an which refer to the temporal past with this expression, like</p>
+
+<blockquote>
+  <p>قَالُوا هَٰذَا الَّذِي رُزِقْنَا مِن قَبْلُ</p>
+  
+  <p>They will say, ""This is what we were provided with before."" </p>
+</blockquote>
+
+<p>Why is it not ""مِنْ قَبْلِ"", with a <em>kasrah</em> on the ل?</p>
+",29,2015-07-16T08:35:55.553,"Why does ""مِنْ قَبْلُ"" not follow the rules of حروف الجرّ?",<grammar><quran>,3,0,1,29,25,2015-07-16T08:35:55.553,,arabic
+1,1,2015-07-14T18:39:27.757,4,123,"<p>The proposal for this site only mentions ""Arabic."" Which Arabic?</p>
+
+<p>There is a common type of Arabic called ""classical Arabic"" (fusha) which stretches back at least 1000 years back. It's still used today for most media (eg. newspapers, textbooks) and in universities.</p>
+
+<p>Beyond this, each country has its own dialect (or slang) version of Arabic. This includes both use of vocabulary, and also actual grammar (or ignoring the classical grammar).</p>
+
+<p>While some of the sample questions on Area 51 talk about Arabic in a specific area, the question is really how we should plan and organize questions, or whether we should focus exclusively on classical Arabic.</p>
+",20,2015-07-15T16:43:23.787,Which Arabic are we talking about?,<discussion>,5,4,,20,5,2015-07-14T22:27:41.087,,arabic.meta
+2,2,2015-07-14T18:42:42.553,0,,"<p>While allowing non-classical Arabic questions will give us more questions being asked, I think it will hurt the site because of two reasons:</p>
+
+<ul>
+<li><strong>Readability:</strong> If users can ask questions in Arabic, you now need a bigger user base that covers whatever country-specific version the question is in.</li>
+<li><strong>Answerability:</strong> Like above, if we don't have site users who know that specific version of Arabic (and in sufficient depth and detail to give a strong answer), we'll end up with a bunch of open, unanswerable questions.</li>
+</ul>
+
+<p>Ultimately, we can let this play out (allowing country-specific Arabic questions) and see what happens. As a start, we should at least try to <em>tag country-specific Arabic questions appropriately.</em></p>
+",20,2015-07-14T18:42:42.553,,,,0,,,,,1,arabic.meta
+3,2,2015-07-14T19:16:18.303,1,,"<p>For both of the main potential audiences of this site, I think we should include the regional dialects.</p>
+
+<p>For native speakers, the regional dialects form a large portion of Arabic as it's spoken today.  For learners, learning at least one dialect is often considered a necessary part of learning the Arabic language (and is pretty important if you actually want to visit a country).</p>
+
+<p>This does mean we should be careful with tagging questions, and it also means we should be open to questions having multiple answers corresponding to different regions.  But the StackExchange format is well-suited to that, and other sites handle the same issue fine.  (For instance, on Academia, many questions have multiple answers with begin by explaining which fields the answer is relevant to.)</p>
+
+<p>One final point: fusha refers to both Classical Arabic and Modern Standard Arabic.  These languages are pretty similar, but there are some usage differences.  So whether or not we include the regional dialects, we should keep in mind that some questions may have multiple answers depending on the language variant (and tag accordingly).</p>
+",5,2015-07-14T19:16:18.303,,,,2,,,,,1,arabic.meta
+4,2,2015-07-14T20:05:50.737,-3,,"<p>Arabic was never a single language, even before Islam and even when Islam came. That's why Quran was sent to Mohammed in 7 different tongues (dialects), not be confused with Qira'at (القراءات). The common dialect at that time was لغة قريش. It is called Arabic mainly because of the race, not because of the language itself. </p>
+
+<p>Anyway, same thing is applicable now, the classical Arabic we see now is mainly from Quran and Current Quran is mainly from the Quraish version (one of the seven dialects). In addition to that, each country/region/tribe of Arabs has its own dialect/accent, nothing new here as this was the case throughout history. </p>
+
+<p>To answer your question, this site should be about all Arabic Language variants (classic or dialects) especially that almost all Arabs are capable of understanding each other mutually with no problems.</p>
+",9,2015-07-14T20:05:50.737,,,,4,,,,,1,arabic.meta
+5,2,2015-07-14T20:06:44.950,7,,"<p>As I see it, this issue can be broken into two distinct concerns:</p>
+
+<ol>
+<li>Should we as a site cater to questions <em>about</em> dialectual variants of Arabic?</li>
+<li>Should we as a site encourage posts <em>written</em> in dialectual variants of Arabic?</li>
+</ol>
+
+<p>For the first case, I think questions <em>about</em> different dialects should be allowed, for much the same reason Henry mentioned: <a href=""http://meta.arabic.stackexchange.com/a/3/10"">The regional dialects form a large portion of Arabic as it's spoken today</a>. Cutting dialects out of the scope would likely cut out a significant majority of our potential activity.</p>
+
+<p>For the second case, however, I feel that there's value in establishing some clear guidelines to prevent the site from just becoming a mish-mash of dialects. I would suggest the following:</p>
+
+<ol>
+<li><p>Consider English and Fusha as the ""official"" languages of this site</p>
+
+<ul>
+<li>Assuming that the majority of our users can (a) understand Fusha, and (b) understand English, seems to be a reasonable compromise (short of just abandoning English-language entirely, which given most of the posts on the site so far (including this meta) are written in English is probably going to be a hard sell)</li>
+<li>Using regional dialects in meta discussions should be expressly discouraged; community opinion can only truly be gauged if the bulk of the community can reasonably <em>understand</em> what is being discussed, and many Arabic dialects are not mutually understandable. </li>
+<li>Meta posts, policy discussions, FAQs with any sort of ""official"" weight <em>must</em> be written in one or the other (ideally both).
+
+<ul>
+<li>Any meta posts which the Stack Exchange community team (rather than just the site community/moderators) may need to be aware of must be written in English, as few if any of them are fluent in Arabic. In particular, this would include things like bug reports and feature requests.</li>
+</ul></li>
+</ul></li>
+<li><p>Allow questions on the main page in regional dialects, but only if they're expressly <em>about</em> some aspect of that dialect, and <em>tagged appropriately</em>.</p>
+
+<ul>
+<li>Users should be allowed to ask questions in the manner which is most comfortable to them when possible; using their own dialect seems safe, so long as any possible answer would be relevant to that dialect</li>
+<li>It is reasonable to assume that any experts capable of answering a question <em>about</em> a particular dialect is also <em>fluent</em> in that particular dialect. Conversely, it is reasonable to assume that any experts <em>not</em> fluent in that particular dialect are poorly qualified to answer questions <em>about</em> that particular dialect.</li>
+<li>This allows users fluent/not-fluent in particular dialects to selectively ignore/highlight/select questions that they can actually understand based on tags.</li>
+</ul></li>
+<li>Insist that answers on the main page only use dialect if the question is written in that dialect.
+
+<ul>
+<li>English questions should get English answers, and Arabic questions should get Arabic answers.</li>
+<li>Even if a question is tagged with a dialect, if it's asked in (a) Fusha, or (b) English, so must the answer be written</li>
+</ul></li>
+</ol>
+
+<p>In short, the only time a dialect should be used is if it&hellip;</p>
+
+<ol>
+<li>&hellip;is a question about and tagged with that particular dialect, or</li>
+<li>&hellip;is an answer posted to a question using that dialect.</li>
+</ol>
+
+<p>Otherwise, either Fusha or English should be used.  From my understanding (I am hardly an Arabic native) Fusha is rather universally <em>understood</em> among Arabic speakers, even when it's rarely if ever actually <em>spoken</em>. So establishing it as the <em>lingua franca</em> of Arabic here makes sense to me.</p>
+",10,2015-07-15T16:43:23.787,,,,0,,10,,2015-07-15T16:43:23.787,1,arabic.meta
+6,2,2015-07-14T20:27:38.187,1,,"<p>As discussed in the proposal, which I think we should stick to, this site is for any and all Arabic, including it's dialects.</p>
+
+<p>Many users of the proposal signed up specifically for the questions about the dialects of the language as such we need to come up with a plan to support this otherwise we will drive people away.</p>
+
+<p>As such this is not a question of ""if"" but ""how"".</p>
+
+<p>On the proposal we hinted that classical (Fusha) Arabic was the default dialect of all questions/answers and I see no reason to change that.</p>
+
+<p>However, the big question, of which some of these answers try to solve, is how to deal with dialects when they do arise.</p>
+
+<p>Having read @GoldPseudo's answer it seems he knows what he is on about and his ideas seem sound. </p>
+
+<p>It makes sense that if someone asks in English it is likely that they are a student or learner of Arabic, as such the answers should probably be English as well. Likewise, if the question is in Arabic there is no use writing in a totally different language (English) since that person is speaking Arabic, and this is Arabic SE after-all.</p>
+
+<p>We should probably encourage this stance and punish those who do not follow it with downvotes to try and create some norm, else I can see this quickly becoming a mess.</p>
+
+<p>We should also allocate tags for dialects as suggested. We need to be more careful about this last point though and I am still unclear exactly how we should structure this. It might come down to just seeing what actual users do and then cleaning their process up into something workable.</p>
+",56,2015-07-14T20:27:38.187,,,,3,,,,,1,arabic.meta
+7,1,2015-07-14T21:54:34.180,4,85,"<p>I noticed that first questions have many mistakes: Some don't use transliteration at all, some uses Arabizi. Both cases make questions and answers not readable by a non-native speaker of Arabic.</p>
+
+<p>I propose to choose one or two unified transliteration to use through all the site questions and answers. I suggest:</p>
+
+<ul>
+<li><p><a href=""https://en.wikipedia.org/wiki/ISO_233"" rel=""nofollow"">ISO 233</a> : <code>الله</code> ==> <code>ʾllh</code> (international standard)</p></li>
+<li><p><a href=""https://en.wikipedia.org/wiki/Buckwalter_transliteration"" rel=""nofollow"">Buckwalter</a>:  <code>الله</code> ==> <code>Allh</code> (used broadly by linguists and computer scientists)</p></li>
+</ul>
+
+<p>I am against using <a href=""https://en.wikipedia.org/wiki/Arabic_chat_alphabet"" rel=""nofollow"">Arabizi</a>.</p>
+
+<p>Please, suggest any other useful alternatives.</p>
+
+<hr>
+
+<p>Also I suggest to attach any transliteration with its Arabic word like <code>qwl قول (saying)</code></p>
+",42,2015-07-21T15:50:12.163,Shouldn't we discuss using transliterations?,<discussion>,2,1,,,,,,arabic.meta
+8,1,2015-07-14T22:02:58.073,6,105,"<p><a href=""http://arabic.stackexchange.com/questions/9/%D9%85%D8%A7-%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84-%D8%A7%D9%84%D9%82%D9%85%D8%B1%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9"">ما الفرق بين <code>ال</code> القمرية و <code>ال</code> الشمسية ؟</a></p>
+
+<p>Both the question and the answer are in Arabic, non-Arabic speakers will have almost zero chance in understanding the question or the answer.</p>
+
+<p>I highly doubt that is goal of SE Arabic</p>
+",63,2015-07-15T02:45:47.897,Are we discussing Arabic language in Arabic or are we discussing Arabic language in English?,<discussion>,2,0,,,,,,arabic.meta
+9,2,2015-07-14T22:28:24.197,2,,"<p><a href=""http://meta.islam.stackexchange.com/a/9/22"">The recommendation I made for Islam.SE</a>:</p>
+
+<blockquote>
+  <p>I would propose basing our system on the one that's been developed for Wikipedia <a href=""http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Arabic"" rel=""nofollow"">here</a>.</p>
+  
+  <p>The <strong>Standard Transliteration</strong> rules (e.g., <em>arkan</em> instead of either <em>arkān</em> or <em>arkaan</em>) should be sufficient for most purposes. If an exact reading is required for something it would probably be better to just quote the Arabic text itself.</p>
+</blockquote>
+
+<p>The Strict (rather than Standard) transliteration would be even better, since it clearly and reversibly maps to the Arabic alphabet, but I feel enforcing it too strictly would be difficult because of the difficulty in typing the necessary diacritics on a standard keyboard.</p>
+
+<p>I can understand the appeal for Buckwalter from a linguistic point of view &mdash; not only does it clearly and reversibly map to the Arabic alphabet, but it does so with standard characters &mdash; but it also has the annoying side-effect of being difficult to actually just <em>read</em>.</p>
+
+<p>And yes, I too strongly oppose any suggestion to use Arabizi. It just looks...ugly. And unprofessional. But mostly ugly.</p>
+",10,2015-07-14T22:28:24.197,,,,4,,,,,7,arabic.meta
+10,1,2015-07-14T22:32:16.373,3,48,"<p>I've stumbled upon following <a href=""http://arabic.stackexchange.com/q/23/7"">question</a> with the title 'Which words are the same across Hebrew and Arabic?'</p>
+
+<p>I've answered it in some short sentences, referring to semitic languages. Still I feel this question should be closed. Are questions like that conform to the community guidelines (or to the one we want to establish)?
+What are the reasons to close questions like that.</p>
+
+<p>An obvious reason to close the question would be that it is too broad, a short answer actually answering the question can't be provided. Leaving that aside, questions like that would give this site character of an etymological dictionary.</p>
+",7,2015-07-16T21:10:38.543,Community guideline concerning closing of question,<discussion><questions>,3,0,,,,,,arabic.meta
+11,2,2015-07-14T22:41:49.723,1,,"<p>It's simply too broad. What do you think they would do in SE EL if someone posted a question like ""Which words are the same across English and German?""</p>
+",63,2015-07-15T05:24:04.940,,,,1,,1,,2015-07-15T05:24:04.940,10,arabic.meta
+1,1,2016-08-02T15:47:29.280,12,115,"<p>Besides being ""one of the 7 meta questions every site should ask"", it's just plain important. An ""AI Stackexchange"" site has been tried before, at least once, and possibly a few times.   And in the past, it's been killed for lack of activity.  :-(</p>
+
+<p>So... how so we promote this site well enough to attract a critical mass of participants? And how do we get people participating?  </p>
+",33,2016-09-05T11:12:00.577,How do we promote this site?,<discussion>,5,3,1,,,,,ai
+2,1,2016-08-02T15:50:52.343,6,40,"<p>I've clicked on <em>chat</em> link, but the list is empty. Also I've tried to create one, but I couldn't, as it's saying:</p>
+
+<blockquote>
+  <p>This room might already exist.</p>
+</blockquote>
+
+<p>But it's not there yet.</p>
+",8,2016-08-02T16:57:41.513,Is there any chat room?,<support><chat>,1,0,,8,10,2016-08-02T15:56:05.243,,ai
+3,1,2016-08-02T16:03:17.910,3,45,"<p>I think this will be a crucial thing to figure out.  On the one hand, I think it's important to be as inclusive as possible, and avoid being overly pedantic and stay away from the extreme degree of elitism that infects many stackexchange sites.  BUT.. on the other hand, we want the site to be of interest to everyone from hobbyists to serious academic researchers.   </p>
+
+<p>The one thing I think we need to be leery of, is having the site become overly oriented towards trans-humanism, Singularity, etc.  I think those things are on-topic, but I suspect it would be easy to drift into a place where we're more fringe-science / sci-fi than serious AI research.   Exactly how to strike that balance, I'm afraid I don't really know.  </p>
+",33,2016-08-02T16:03:17.910,"How broadly should we define ""on topic""?",<discussion>,0,5,,,,,,ai
+4,1,2016-08-02T16:09:38.850,20,251,"<p>Are all questions asked on stats and data science SE also on topic here? Or is there some rule such as (on-topic in stats or data science SE implies off-topic here)?</p>
+
+<p>Data science and the stats SE already have a huge overlap (>~80%), I am worried to have a third SE that also significantly overlaps with them.</p>
+
+<hr>
+
+<p>As a side note, many other SE have an AI tags, e.g.:</p>
+
+<ul>
+<li><a href=""https://philosophy.stackexchange.com/questions/tagged/artificial-intelligence"">https://philosophy.stackexchange.com/questions/tagged/artificial-intelligence</a></li>
+<li><a href=""https://worldbuilding.stackexchange.com/questions/tagged/artificial-intelligence"">https://worldbuilding.stackexchange.com/questions/tagged/artificial-intelligence</a> (for the most sci-fi questions)</li>
+<li><a href=""https://cstheory.stackexchange.com/questions/tagged/ai.artificial-intel"">https://cstheory.stackexchange.com/questions/tagged/ai.artificial-intel</a></li>
+<li><a href=""https://cs.stackexchange.com/questions/tagged/artificial-intelligence"">https://cs.stackexchange.com/questions/tagged/artificial-intelligence</a></li>
+<li><a href=""https://cogsci.stackexchange.com/questions/tagged/artificial-intelligence"">https://cogsci.stackexchange.com/questions/tagged/artificial-intelligence</a></li>
+<li><a href=""https://hsm.stackexchange.com/questions/tagged/artificial-intelligence"">https://hsm.stackexchange.com/questions/tagged/artificial-intelligence</a></li>
+<li><a href=""https://stackoverflow.com/questions/tagged/artificial-intelligence"">https://stackoverflow.com/questions/tagged/artificial-intelligence</a></li>
+<li><a href=""https://gamedev.stackexchange.com/questions/tagged/ai"">https://gamedev.stackexchange.com/questions/tagged/ai</a></li>
+</ul>
+",4,2016-08-10T10:53:07.670,Are all questions asked on stats and data science SE also on topic here?,<discussion><scope>,6,4,2,-1,,2017-05-23T12:39:32.930,,ai
+5,1,2016-08-02T16:16:07.653,11,49,"<p>I've seen several questions that use the <a href=""https://ai.stackexchange.com/questions/tagged/artificial-intelligence"" class=""post-tag"" title=""show questions tagged &#39;artificial-intelligence&#39;"" rel=""tag"">artificial-intelligence</a> tag, sometimes as the only tag on the question. That is not useful for categorizing questions, so please don't add this to your question. </p>
+
+<p>For this reason, the site name is usually blacklisted as tag name. </p>
+
+<ul>
+<li>So the <a href=""https://ai.stackexchange.com/questions/tagged/bug"" class=""post-tag"" title=""show questions tagged &#39;bug&#39;"" rel=""tag"">bug</a> is: Why isn't <a href=""https://ai.stackexchange.com/questions/tagged/artificial-intelligence"" class=""post-tag"" title=""show questions tagged &#39;artificial-intelligence&#39;"" rel=""tag"">artificial-intelligence</a> blacklisted?</li>
+<li>The <a href=""https://ai.stackexchange.com/questions/tagged/feature-request"" class=""post-tag"" title=""show questions tagged &#39;feature-request&#39;"" rel=""tag"">feature-request</a> is: Please blacklist <a href=""https://ai.stackexchange.com/questions/tagged/artificial-intelligence"" class=""post-tag"" title=""show questions tagged &#39;artificial-intelligence&#39;"" rel=""tag"">artificial-intelligence</a>.</li>
+</ul>
+",29,2016-08-02T18:24:14.193,Why isn't the [artificial-intelligence] tag blacklisted?,<bug><feature-request><tags>,2,0,,,28,,,ai
+6,1,2016-08-02T16:37:51.193,4,51,"<p>I think the answer is ""yes"".  To the user asking a question, closing it feels like a very hostile action and makes the site seem unfriendly and not welcoming.  My feeling is that marginal questions should <em>not</em> be closed explicitly, but should simply remain open but voted to an appropriate score (including negative, even very negative).  </p>
+
+<p>The questions I'd close are the ones that are just gratuitously bad, in terms of being <strong>completely</strong> off-topic (eg, ""how do I rebuild a Holley carburetor?""), or that having attacking / discriminatory language, obvious trolling (slashdot level stuff... GNAA references, etc.), and the like.  </p>
+
+<p>IOW, I'd rely on up/down votes for almost all moderation and save the ""close hammer"" for extreme situations. </p>
+
+<p>Thoughts? </p>
+",33,2016-08-02T17:26:47.023,Should we be *extremely* slow to CLOSE questions?,<discussion>,1,1,,,,,,ai
+7,2,2016-08-02T16:43:23.193,15,,"<p>No, data science and the implementation of artificial intelligence are off-topic. <a href=""https://area51.meta.stackexchange.com/a/24016/136466"">A community manager explicitly said so in the Area 51 discussions for this site.</a> There have been at least two AI sites on SE before, and they've all failed. We need to bring something new to the table, especially in the private beta stage. Once that's over, we can consider whether we can bring a new viewpoint to such questions.</p>
+",75,2016-08-02T16:43:23.193,,,,8,,-1,,2017-05-03T08:41:05.700,4,ai
+8,2,2016-08-02T16:48:30.733,6,,"<p>Definitely not. In some minutes we can see lots of questions asking for specific technical solutions about neural networks and genetic algorithms. I agree with Ben that we need to make this site different and start migrating all these questions to other sites, where there <em>is already</em> an answer to most of them.</p>
+
+<p>Why would we want to ask them again?
+(apart from rush for reputation)</p>
+",70,2016-08-02T16:48:30.733,,,,1,,,,,4,ai
+9,1,2016-08-02T16:57:40.597,4,39,"<p>As you might know sites remain in private beta for three weeks:  </p>
+
+<p><a href=""https://hardwarerecs.meta.stackexchange.com/a/75/237"">We've extended the private betas to last about three weeks total.</a>  </p>
+
+<p><a href=""https://meta.stackexchange.com/a/266555/226369"">Usually new communities are concerned that we didn't give them enough time.</a>  </p>
+
+<p>And I think in this three weeks, the core users should try their best to enrich the site's content.<br>
+I think we should ask questions that are easily google-enabled and a usual concern for most of artificial intelligence researchers that are even asked before in other forums (local forums maybe). This way, after the end of private beta if someone googles that question and sees that are site has better answered the question, they'll rely on our site and it is more probable to become a member of the site and ask their future questions in the site.<br>
+Any way are questions should not be opinion-based, subjective, etc.<br>
+In fact I'm not an expert or research-level student. I'm a remote sensing student with some experience in photogrammetry and programming with OpenGL API on C++. 
+So I cannot add good questions myself but I'm really curious about everything related to accelerating the code and real-time programming.<br>
+Anyway since I'm an Iranian, I wanted to know if it's OK to translate good and popular questions in Iranian artificial intelligence forum which have the features of a good question that have introduced before or discussed about?  </p>
+
+<p><a href=""http://blog.stackoverflow.com/2010/07/area-51-asking-the-first-questions/"">Your New Site: Asking the First Questions</a><br>
+<a href=""http://blog.stackoverflow.com/2010/09/good-subjective-bad-subjective/"">Good Subjective, Bad Subjective</a><br>
+<a href=""http://blog.stackoverflow.com/2011/01/real-questions-have-answers/"">Real Questions Have Answers</a><br>
+<a href=""http://blog.stackoverflow.com/2011/02/are-some-questions-too-simple/"">Are Some Questions Too Simple?</a>  </p>
+
+<p>in order to enrich the content?<br>
+I think this way any Iranian who tries to google that question in English and then enters this site will see that the quality of answers is better here (because in these 3 weeks experts should try their best to add comprehensive answers) will be a fan of <a href=""http://ai.stackexchange.com"">ai.stackexchange.com</a>.</p>
+",19,2016-08-18T15:42:43.943,Is this OK to ask questions that have been asked before on local artificial intelligence forums?,<discussion><site-promotion><asking-questions>,1,1,,-1,,2017-03-20T10:32:19.130,,ai
+1,1,2017-08-02T19:22:36.567,4,92,"<p>How does the final phase of Augur Market adjudication work and what is the difference from AgnosticPM?  </p>
+
+<p>I believe that Augur's final phase of adjudication forks off the market into two separate markets and whichever market has the highest valued rep is the one that gets the winnings?</p>
+
+<p>It sounds like AgnosticPM is using a similar method of a decentralized prediction market without oracles, relying on the market to gravitate towards the correct result long after the end of a market.  But there appears to be more to this approach, where it links to the results of previously successfully adjudicated markets.  Does anyone know how this mechanism works in practice?</p>
+",17,2017-08-03T00:20:01.090,How does the final phase of Augur Market adjudication work and what is the difference from AgnosticPM?,<untagged>,1,0,1,,9,,,agur
+2,1,2017-08-02T19:33:36.360,3,269,"<p>Is Augur's reputation token a cryptocurrency in traditional sense, or not? Is it based on Bitcoin's source code?</p>
+",27,2017-08-03T09:15:59.107,Is REP a cryptocurrency?,<reputation-tokens>,2,0,,27,,2017-08-03T09:15:59.107,,agur
+3,1,2017-08-02T19:34:40.673,8,56,"<p>I've read that there are different kind of ""tokens"" that can be used across Augur project. What are these and what's their purpose?</p>
+",27,2017-08-02T20:03:48.517,What kind of tokens can be used for Augur?,<tokens>,1,0,,,,,,agur
+5,1,2017-08-02T19:37:18.247,4,38,"<p>Are all trades published after the trade has been completely executed? If so, to whom are they visible? Only for token holders, or to everyone else?</p>
+",27,2017-08-03T09:12:37.313,Are Augur trades fully disclosed and to whom?,<trades>,1,0,,69,,2017-08-03T09:12:37.313,,agur
+6,1,2017-08-02T19:38:21.613,4,60,"<p>Some while a go, we could read the following message on Augur website which reads:</p>
+
+<blockquote>
+  <p>Imagine an Early Warning System for everything that tapped into the collective awareness of humanity. Imagine better forecasts about <em>politics</em>, commerce, technology, entertainment and more.”</p>
+</blockquote>
+
+<p>How exactly Augur can be used in politics? Can you give some examples?</p>
+",27,2017-08-02T21:05:17.477,How exactly Augur can be used for politics?,<untagged>,2,0,1,,,,,agur
+7,1,2017-08-02T19:39:41.830,5,110,"<p>In U.S. sports betting is illegal in most states and markets are tightly regulated by the <a href=""https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission"" rel=""noreferrer"">Commodity Futures Trading Commission (CTFC)</a>. This can be also the case in different countries.</p>
+
+<p>So what are the legal implications of using decentralized gambling platform? Is it legal, or illegal?</p>
+",27,2017-08-02T20:10:37.047,What are the legal implications of sports betting at Augur?,<legal>,1,0,,,,,,agur
+8,1,2017-08-02T19:43:50.620,6,69,"<p>Augur uses a blockchain to distribute trades. Since there are no servers or employees there is no easy way of taking it down (similar to other peer-to-peer technologies).</p>
+
+<p>Are there any other concerns about how Augur can be disrupted from operating correctly, like firewall rules, fake blockchains, exploits, or other methods?</p>
+",27,2017-08-03T09:11:08.883,Can the stability of Augur be disrupted?,<security>,1,0,2,22,,2017-08-03T09:11:08.883,,agur
+9,2,2017-08-02T19:49:14.807,4,,"<p>The final fallback for market resolution (after all reporters have reported on an event and someone still believes the answer is wrong) is called Fork Resolution.  Only one fork can be active at a time per branch (in Augur, a branch is akin to an entire universe that is isolated from other universes).  Once a fork starts, all other markets that are awaiting reporter based resolution (this does not include automated reporting) are delayed until the fork resolves.  Once the fork resolves, all of those pending markets will migrate to the branch (universe) that won the fork.</p>
+
+<p>The fact that existing markets migrate to a particular world view is one of the first differences with AgnosticPM.  In AgnosticPM, the universe a market lives in is based entirely on markets that came before.  In Augur, while a market is created within a particular universe (branch), it will migrate forward to another branch if a fork occurs before the market settles.  The reason for this is because if a fork occurs, we must assume that reporters have been compromised and any reporting they do is invalid.  It is also assumed that the fork resolution process is the best answer we have to ""who was right"".</p>
+
+<p>As for how the fork resolution process actually works, its pretty simple.  Before the fork, there is REP (tokens) that is associated with a particular branch (universe).  This REP is traded on exchanges and has some market value.  When a fork occurs, a new branch is created (conceptually) for every possible outcome and each branch has a new REP token.  Anyone who holds the original REP token can convert (1:1 ratio) their token to a REP token on <em>any</em> branch of the fork.  The act of converting your REP from the parent branch to a child is how you vote for which branch you think represents reality.  Once you have cast your vote, there is no going back so be certain!</p>
+
+<p>At the end of the fork (currently ~2 months) whichever branch had the most REP migrated to it is considered the winner and all existing markets needing reporting will migrate to that branch, and share tokens for the forking market will be redeemed using the outcome from that branch.</p>
+
+<p>This begs the question, why would I risk my REP casting a vote instead of just keeping my original REP?  The answer to this is that no new markets can be created on the original branch and all existing markets will resolve on the winning branch.  This means that REP on the original branch will yield no reporting fees to REP holders as there will be no markets to report on.  As a REP holder, your job is to pick the branch that you think the most future fees will come from.  This means you want to pick the branch that has the most market participation (volume/outstanding interest) so your REP gets the maximum amount of fees long term.  In almost all cases, this will be the branch that represents the truth/reality.  The only cases where this is less certain are forks that are highly contentious, where not everyone agrees on what reality even means.</p>
+
+<p>In order to incentivize people to migrate their REP during the voting period (tentatively 2 months), there will likely be some small inflation assigned to everyone who migrates sooner rather than later (e.g., 5%).  The idea here is that if you pick a side (rather than abstaining) then your share of REP will <em>not</em> be diluted.  If you abstain, then your share of REP will be diluted by some amount relative to how many people migrate.  The goal here is to make it so abstaining from the vote is a losing strategy in almost all cases (non-contentious forks) as this increases the cost of mounting a forking attack against Augur.</p>
+
+<p>Regarding AgnosticPM, Augur is <em>similar</em> in that it has a concept of branches (universes) which have a history of truths associated with them.  The primary difference between Augur and AgnosticPM is that Augur has a concept of finality, meaning that the system has the ability to assert that a particular outcome is an absolute truth for the sake of paying out winnings.  In AgnosticPM, there is no way to extract deposited ETH from the system, its ETH-in-only.  This is a pretty huge difference as it means that AgnosticPM, while fun and possibly effective, doesn't have a way of liquidating its ETH holdings back to participants to payout.  As long as AgnosticPM experiences heavy growth, this may not be a problem but if it ever ceases to experience usage growth then this becomes a big problem.  Investors know this, which will likely make them hesitant to buy any AgnosticPM share tokens, which is likely to drive their value to below 1 ETH (their target).</p>
+",13,2017-08-03T00:20:01.090,,,,4,,13,,2017-08-03T00:20:01.090,1,agur
+10,2,2017-08-02T19:52:35.617,10,,"<p>REP is a token, not a crypto-currency (though the lines between the two are a bit blurred).</p>
+
+<p>Augur is not based on Bitcoin source code, it has its own code base and is built on top of Ethereum.</p>
+",13,2017-08-02T20:04:32.803,,,,0,,22,,2017-08-02T20:04:32.803,2,agur
+11,2,2017-08-02T19:57:48.660,6,,"<p>The quoted text above specifically mentions ""forecasts about politics"". The best current example of political forecast prediction markets I know of is <a href=""https://www.predictit.org/"" rel=""nofollow noreferrer"">PredictIt</a>, a research project run out of Victoria University in Wellington, NZ.</p>
+
+<p>Augur improves on PredictIt (and other centralized prediction markets) in a number of ways:</p>
+
+<ul>
+<li>the ability for users to create their own markets, e.g. if they want a forecast for something that's less mainstream</li>
+<li>the lack of caps on investment in a given market (which affects accuracy)</li>
+<li>the lack of a central authority (which affects the legality, <a href=""https://augur.stackexchange.com/questions/7/what-are-the-legal-implications-of-sports-betting-at-augur"">as outlined in this answer</a>)</li>
+</ul>
+
+<p>Taken together these properties make political forecast markets on Augur both more diverse and more accurate, as well as more resilient to legal challenge.</p>
+",22,2017-08-02T21:03:38.973,,,,1,,22,,2017-08-02T21:03:38.973,6,agur
+1,1,2017-08-03T16:32:47.943,14,81,"<p>Should questions about and other prediction markets be allowed on this Stack?</p>
+
+<p>If so should the type of prediction market or types of questions be limited in some way?</p>
+
+<p>For example should we only allow comparison (with Augur) questions?</p>
+
+<p>Should we only allow questions relating to decentralized prediction markets?</p>
+",86,2017-08-06T00:24:47.590,Questions about other prediction markets be allowed?,<discussion>,2,0,8,,7,,,agur.meta
+2,1,2017-08-05T04:47:45.557,7,49,"<p>So far most Augur SE answers seem to be of high quality. However a large percentage of them have been answered by <a href=""https://augur.stackexchange.com/users/13/micah-zoltu"">one person</a>. This speaks highly of him, but not of the effort of the rest of the community with the technical ability to answer hard questions.</p>
+
+<p>How can we go about encouraging more experts to answer difficult questions, and remind more users that it is <a href=""https://stackoverflow.com/help/self-answer"">okay to ask and answer their own questions</a> which they are capable of answering?</p>
+",138,2017-08-05T22:28:16.757,Encouraging more experts to answer questions,<discussion>,1,1,3,,,,,agur.meta
+3,1,2017-08-05T19:25:53.890,5,37,"<p>Since Augur is built on the Ethereum blockchain is it appropriate to ask questions about Ethereum here?</p>
+
+<p>Would these questions be limited to how the blockchain is used within the Augur market, or could it be about any of the important aspects of Ethereum which can affect Augur in unseen ways?</p>
+
+<p>To a larger extent, would even blockchain-based questions be on-topic on Augur?</p>
+",56,2017-08-05T20:10:42.180,Are Ethereum-based questions on topic?,<discussion>,1,0,0,,,,,agur.meta
+4,2,2017-08-05T20:10:42.180,8,,"<p>As far as the question is related to Augur, it should be fine to ask.</p>
+
+<p>However if the question is about Ethereum specifically, I believe it should be asked on the dedicated site at <a href=""https://ethereum.stackexchange.com/"">ethereum.stackexchange.com</a>, otherwise the sites would overlap too much.</p>
+",27,2017-08-05T20:10:42.180,,,,0,,,,,3,agur.meta
+5,2,2017-08-05T22:16:42.603,5,,"<p>There was another discussion thread <a href=""https://area51.meta.stackexchange.com/questions/26426/should-the-scope-of-this-stack-include-other-prediction-markets-like-gnosis-and"">about this question</a> in the area51 meta.</p>
+
+<p>My personal opinion is that specific comparison questions between Augur and other prediction markets should be allowed, with the ""Augur SE"" branding remaining in tact. </p>
+
+<p>Augur is the first and largest decentralized prediction market as measured by community size and activity indicators such as <a href=""https://www.reddit.com/r/Augur/"" rel=""nofollow noreferrer"">Reddit</a>, <a href=""https://twitter.com/AugurProject"" rel=""nofollow noreferrer"">Twitter</a>, <a href=""https://twitter.com/alexsunnarborg/status/880874538317357056"" rel=""nofollow noreferrer"">unique ERC20 addresses</a>, and post crowdfunding development time but it will not be the last. Technical comparisons between Augur and later market entrants should be welcome here. Comparisons with existing (soon to be antiquated) centralized prediction markets may also prove useful to users of this Stack. In the long run, due to economies of scale, most questions will likely eventually be focused on Augur regardless.</p>
+",114,2017-08-05T22:16:42.603,,,,0,,,,,1,agur.meta
+6,2,2017-08-05T22:28:16.757,4,,"<p>I think your suggestion of reminding people that self answers are welcome is a good idea. In addition I suggest the following:</p>
+
+<ol>
+<li><p>If an answer already exists, don't be deterred. Multiple answers are encouraged with the most helpful answers generally being voted to the top over time.</p></li>
+<li><p>People answering questions should not be in a rush to accept the first answer that (partially) answers the question. Waiting a little longer to accept an answer as correct may encourage edits to improve the initial answer or additional answers that better answer your question.</p></li>
+<li><p>Look at the <a href=""https://augur.stackexchange.com/unanswered"">unanswered questions</a> tab in order to find questions that have not been answered. Nobody is aware 24 hours a day. If there is consistently someone that provides a very high quality answer before you can draft your own, try logging on during a different time of day.</p></li>
+<li><p>Invite more people to participate in this Stack and explain to them why having a high quality, searchable, expert Q&amp;A site for Augur is beneficial.</p></li>
+</ol>
+",114,2017-08-05T22:28:16.757,,,,1,,,,,2,agur.meta
+7,2,2017-08-06T00:24:47.590,16,,"<p>In my opinion, questions about prediction markets <em>in general</em> are on-topic, and questions about how Augur compares to other prediction market platforms/websites are also on-topic.  However, I think questions <em>solely</em> pertaining to how a different prediction market platform or website functions are off-topic.</p>
+",18,2017-08-06T00:24:47.590,,,,0,,,,,1,agur.meta
+8,1,2017-08-07T06:17:26.677,7,46,"<p>Should questions about Augur features or system mechanics that are not longer used be allowed on this stack?</p>
+
+<p>For example I have seen several questions about ""dormant"" REP with some votes to close based on it being a historical question no longer related to a current problem that Stack Exchange.</p>
+",188,2017-08-07T19:30:58.747,Questions about depreciated Augur features,<discussion><history>,2,0,,,,,,agur.meta
+9,2,2017-08-07T07:22:20.770,4,,"<p>I think the context provided by the example historical question you provided would be a useful addition to this Stack.  In order to understand the reasons for the Augur design, it is helpful to understand why and how changes to the design were made.</p>
+",193,2017-08-07T07:22:20.770,,,,0,,,,,8,agur.meta
+10,2,2017-08-07T19:30:58.747,9,,"<p>No, questions about things about history that aren't phrased in a historical context should not be allowed.  The purpose of Stack Exchange is to function as a Q&amp;A with high quality SEO for future readers.  When people go searching for answers to their questions in the future, it is not useful for them to find answers that are out of date.  Of course, everything is subject to change so we can't guarantee that answers today will be correct tomorrow, but we can at least take steps to avoid having questions and answers that we already know are wrong/out of date.</p>
+
+<p>There <em>may</em> be some merit to having questions like, ""Why did Augur change from strategy X to strategy Y?"" but this is very different from the class of questions that you are referring to where people are asking for details about strategy X.</p>
+",13,2017-08-07T19:30:58.747,,,,0,,,,,8,agur.meta
+1,1,2016-01-12T19:24:29.457,19,109,"<p>I have been wanting to learn about 3D printing a long time so I really want this site to succeed but I have no previous experience with the subject. </p>
+
+<p>I was wondering how can I help the site at this early stage. I thought about asking about how to get started with 3D printing but SE explicitly discourages ""easy"" questions in the private beta.</p>
+
+<p>What can newbies like me do for the site at this stage besides voting questions and answers?</p>
+",30,2016-01-13T13:36:41.160,"What can ""newbies"" do to help the site at this stage?",<discussion>,3,1,2,,,,,3dprinting
+2,1,2016-01-12T19:39:07.193,2,46,"<p>There are many different printing technologies. While it might be clear to the asker that he's talking about his home 3D printing machine, that's not necessarily the case for those that try to answer the question.</p>
+
+<p>I think it would help to specify the scope of questions with tags, to allow future visitors to identify what type of 3D printer it is about. Answers to a lot of questions related to general properties of the printing process like printing speed, resolution, additional manual work, support structures, etc. depend heavily on the technology that's being used.</p>
+
+<p>This also prevents ""Well, it depends..."" type of answers that cover a lot of possibly unrelated things.</p>
+",10,2016-01-13T00:43:12.200,Should the specification of printer technology be mandatory?,<discussion>,3,3,,,,,,3dprinting
+3,2,2016-01-12T20:09:21.760,2,,"<p>No, there will be many questions which are more general in nature, and have little to do with the actual process used to produce the part.</p>
+
+<p>We should encourage tag use for process when appropriate, but I don't think making it mandatory will work in the long term.</p>
+",16,2016-01-12T20:09:21.760,,,,1,,,,,2,3dprinting
+4,2,2016-01-12T20:14:12.953,3,,"<p>For questions where the technology matters, absolutely.</p>
+
+<p>If you look at Stack Overflow, for example, all questions must be tagged with the language the OP is asking about. I doubt there will be many questions that are asking about all technologies at once - and if they are, that's likely to be marked as too broad anyway.</p>
+",9,2016-01-12T20:14:12.953,,,,0,,,,,2,3dprinting
+5,1,2016-01-12T20:14:43.087,9,92,"<p>Stack exchange isn't a good platform for product recommendations in general, but a few sites allow it with a tight focus and control.  Some that have allowed it in the past have decided to discontinue it for a variety of reasons.</p>
+
+<p>I expect at the start we are going to get a lot of ""What specific machine should I use"" or ""is there a 3D model of item X I can print"".</p>
+
+<ol>
+<li>Should we allow product or part recommendations?</li>
+<li>If we do, what can we do to make sure they are limited, rather than open ended questions where dozens or hundreds of answers would be different but correct?</li>
+</ol>
+",16,2016-01-13T15:29:35.547,How do we handle recommendations?,<discussion><recommendations>,3,1,,,,,,3dprinting
+6,1,2016-01-12T20:30:19.493,5,69,"<p>From <a href=""http://blog.stackoverflow.com/2010/07/the-7-essential-meta-questions-of-every-beta/"">The 7 Essential Meta Questions of Every Beta</a>:</p>
+
+<hr>
+
+<h2>What should our documentation contain?</h2>
+
+<p>Much of the sites documentation will be the same as on every other Stack Exchange site: “be nice,” “how to create an account,” “how to ask questions” — it’s all pretty static. Even the sections about “what kind of questions should I (not) ask here?” comes primarily from <a href=""http://area51.stackexchange.com/faq#questions"">the Definition phase of Area 51</a>.</p>
+
+<p>But the questions you want to discuss in meta are those issues specific to your site that need to be mentioned in the Help Center.</p>
+
+<p>Take the <a href=""https://superuser.com/faq"">Super User ""About"" page</a> as an example:</p>
+
+<blockquote>
+  <p>Super User is for computer enthusiasts and power users.</p>
+  
+  <p>Ask about...</p>
+  
+  <ul>
+  <li>Specific issues with computer software, hardware or networking</li>
+  <li>Real problems or questions that you’ve encountered</li>
+  </ul>
+  
+  <p>Don't ask about...</p>
+  
+  <ul>
+  <li>Anything not directly related to computer software or computer hardware</li>
+  <li>Questions that are primarily opinion-based</li>
+  <li>Questions with too many possible answers or require an extremely long answer</li>
+  <li>Videogames, consoles, or other electronic devices, unless they connect to your computer</li>
+  <li>Websites or web services like Google, Facebook, Twitter, and WordPress</li>
+  <li>Shopping, buying or product recommendations</li>
+  <li>Issues specific to corporate IT support and networks</li>
+  </ul>
+</blockquote>
+
+<p>These are then elaborated on in SU's <a href=""https://superuser.com/help/on-topic"">What topics can I ask about here?</a> page.</p>
+
+<p>It took almost a year to figure out the list of “we want these sort of questions” and “we don’t want these sort of questions” on Super User. Area 51 gave you a head start but you should also be working out other FAQ-related issues <strong>specific to your topic and your community</strong>.</p>
+",63,2017-05-30T17:17:04.580,What should our documentation contain?,<discussion><7-questions>,3,2,,-1,,2017-03-20T10:18:04.383,,3dprinting
+7,1,2016-01-12T20:33:56.373,4,36,"<p>When attempting to access the review cue for close votes,the cue hangs and errors out. </p>
+
+<p>The error states - An error occurred when loading the review item, please try again.</p>
+
+<p>I am able to open review cues on other sites.</p>
+",23,2016-01-12T23:05:23.980,Close votes review cue hangs - bug,<bug><status-completed>,1,8,,119,22,2016-01-12T23:05:05.177,,3dprinting
+8,1,2016-01-12T20:34:37.910,8,51,"<p>Looking at the highly upvoted <a href=""http://area51.stackexchange.com/proposals/82438/3d-printing?page=1&amp;tab=votes&amp;phase=definition#tab-top"">area 51 questions</a>, we seem to have a lot of questions focusing on 3D printing from the viewpoint of someone producing items, but a dearth of those discussing actual printer construction, modification, and firmware configuration/creation/programming. Are such questions on-topic for this site's scope?</p>
+",62,2016-01-12T20:41:20.997,"Are questions discussing printer construction, internals, and firmware on-topic here?",<support><scope>,1,0,,,9,,,3dprinting
+9,2,2016-01-12T20:41:20.997,10,,"<p>Yes, I think such questions should be on-topic.</p>
+",26,2016-01-12T20:41:20.997,,,,4,,,,,8,3dprinting
+11,1,2016-01-12T20:52:02.930,10,281,"<p>Given our successful private beta, soon after we go public it will be time for us to get our first crop of moderators, as explained in the <a href=""http://blog.stackoverflow.com/2010/07/moderator-pro-tempore/"">“Moderator Pro Tempore” blog post</a>:</p>
+
+<blockquote>
+  <p>About a week into the public beta, we will seek out members who are deeply engaged in the community’s development; members who:</p>
+  
+  <ul>
+  <li>Have a reasonably high reputation score to indicate active, consistent participation.</li>
+  <li>Show an interest in their meta’s community-building activities.</li>
+  <li>Lead by example, showing patience and respect for their fellow community members in everything they write.</li>
+  <li>Exhibit those intangible traits discussed in <a href=""http://blog.stackoverflow.com/2009/05/a-theory-of-moderation/""><em>A Theory of Moderation</em></a>.</li>
+  </ul>
+  
+  <p>Bonus points for:</p>
+  
+  <ul>
+  <li>Members with participation in both meta and the parent site (i.e. interest in both community building and expertise in the field).</li>
+  <li>Area 51 participation, social network referrals, or blogging about the site.</li>
+  <li>Members who have already shown an interest or ability to promote their community.</li>
+  </ul>
+  
+  <p>Candidates will be contacted and three of them will be selected to act as provisional Moderators until the community holds formal elections after the Beta period. Besides the normal abilities of a Moderator, they will:</p>
+  
+  <ul>
+  <li>Have access to a special chat room where we will collectively work through the challenges of moderation and community self-policing.</li>
+  <li>Organize the process of selecting the site's attributes (domain names, design issues, the FAQ, etc.).</li>
+  <li>Rally community support and drive the mission of getting publicity for the site.</li>
+  </ul>
+  
+  <p>Essentially, <strong>they will have the ear of the Stack Exchange team for anything we can do to help their sites succeed!</strong></p>
+</blockquote>
+
+<p>Although the moderators pro tempore will ultimately be selected by Stack Exchange, the purpose of this post is to seek out and propose candidates:</p>
+
+<ul>
+<li>Each nomination should be posted as an answer and it should include (at minimum) a link to the user's main and meta profile so we can check out their activity.</li>
+<li>Self nominations are encouraged, step up if you feel you can help.</li>
+<li>If you are nominated by someone else you should edit the answer and let us know if you accept or decline (explanation optional). If a nominee declines we will not delete the answer, as to not have someone else nominate them again.</li>
+<li>If you are nominating someone else, please mark the post as Community Wiki before saving. Meta doesn't allow suggested edits, so your nominee may be blocked from accepting the nomination.</li>
+<li>The nominations are not binding to Stack Exchange or the nominees. If you are being considered by Stack Exchange, you will get an official confirmation email at one point. </li>
+<li>Before nominating someone or accept / decline a nomination, you should read <a href=""http://blog.stackoverflow.com/2009/05/a-theory-of-moderation/""><em>A Theory of Moderation</em></a> thoroughly to find out what's generally expected from moderators.</li>
+</ul>
+
+<p>If you would like to learn more about the role, please drop into <a href=""http://chat.stackexchange.com/rooms/34216/3d-printing"">chat room</a> where you can ask about the role from other moderators (they appear with a blue name in the chat room). Another chatroom called <a href=""http://chat.stackexchange.com/rooms/2691/the-assembly"">The Assembly</a> was created specifically for users and moderators to discuss moderation activities, moderators from all over the network are there to answer your questions.</p>
+
+<p>Once again, <strong>please don't hesitate to step up and self-nominate!</strong>. </p>
+
+<p><sub>Thanks to <a href=""https://chemistry.meta.stackexchange.com/users/30/fx"">F'x</a> for the original version of this post <a href=""https://chemistry.meta.stackexchange.com/q/113/17315"">over on chemistry</a>.</sub></p>
+",63,2016-03-14T01:27:40.663,Who should our beta moderators be?,<discussion><7-questions><moderators>,6,2,4,-1,,2017-03-16T15:50:39.727,,3dprinting
